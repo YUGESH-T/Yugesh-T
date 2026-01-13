@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yugesh-thimmampalli">
+  <a href="https://www.linkedin.com/in/yugesh-thimmampalli-45a73b32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YUGESH-T">
@@ -74,7 +74,6 @@ I work on projects that go beyond UI demos, focusing on **end-to-end development
 
 - **INCOIS Disaster Management System**  
   Crowdsourced ocean-hazard reporting platform with live map-based insights for disaster awareness and response.  
-  *React · Supabase · Leaflet*
 
 - **LifeLink — Emergency Blood Coordination Platform**  
   Hackathon-winning healthcare system enabling real-time donor–recipient coordination with verification and location awareness.  
@@ -82,11 +81,9 @@ I work on projects that go beyond UI demos, focusing on **end-to-end development
 
 - **Flutter Mobile Applications**  
   Cross-platform mobile apps with smooth animations, responsive layouts, and real API integrations.  
-  *Flutter · Dart · Firebase*
 
 - **Full-Stack Web Applications**  
   End-to-end systems covering frontend, backend APIs, databases, authentication, and deployment.  
-  *React · Django / FastAPI · PostgreSQL*
 
 ---
 
