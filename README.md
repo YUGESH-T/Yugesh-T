@@ -1,12 +1,12 @@
 <h1 align="center">Yugesh Thimmampalli</h1>
 
 <p align="center">
-  <strong>Full-Stack & Mobile Developer · Spatial Systems & Data Visualization</strong><br/>
+  <strong>Full-Stack & Mobile Developer</strong><br/>
   Computer Science (Data Science), 2nd Year — Madanapalle Institute of Technology & Science
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yugesh-thimmampalli-45a73b32b?">
+  <a href="https://linkedin.com/in/yugesh-thimmampalli">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YUGESH-T">
@@ -19,21 +19,21 @@
 
 ---
 
-## Overview
+## 👋 Hello
 
-I build **production-focused full-stack systems and cross-platform mobile applications** with an emphasis on **real-world constraints, spatial data systems, and clean architecture**.
+I’m Yugesh — a developer who enjoys building **real-world full-stack systems and cross-platform mobile applications**.
 
-Most of my projects are developed under **hackathon timelines or deployment-driven deadlines**, where speed, correctness, and maintainability matter.  
-These are **end-to-end systems**, not demos—covering frontend, backend, databases, APIs, maps, and deployment.
+I work on projects that go beyond UI demos, focusing on **end-to-end development**, clean architecture, and practical problem-solving. Most of my work is shaped by **hackathons, deadlines, and deployment-driven requirements**, where clarity and correctness matter.
 
 ---
 
 ## Current Focus
 
-- Advanced **Flutter** mobile development (animations, maps, performance)
-- **Spatial data systems** with interactive map-based visualization
-- Scalable **full-stack architecture**
-- Shipping MVPs and evolving them into reliable products
+- Strengthening **Data Structures and core Computer Science foundations**
+- Applying **Data Science concepts in practical, system-level projects**
+- Building **workflow automations using n8n**
+- Improving problem-solving through consistent coding and analysis
+- Writing cleaner, more scalable, and maintainable code
 
 ---
 
@@ -54,9 +54,9 @@ These are **end-to-end systems**, not demos—covering frontend, backend, databa
 
 ### Frontend & UI
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material UI-007FFF?style=flat&logo=mui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
@@ -68,55 +68,35 @@ These are **end-to-end systems**, not demos—covering frontend, backend, databa
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </p>
 
-### Spatial Systems & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-</p>
-
 ---
 
 ## Featured Projects
 
-### INCOIS Disaster Management System
-Crowdsourced ocean-hazard reporting system with **live spatial visualization** for disaster awareness and response.  
-**Stack:** React · Supabase · Leaflet
+- **INCOIS Disaster Management System**  
+  Crowdsourced ocean-hazard reporting platform with live map-based insights for disaster awareness and response.  
+  *React · Supabase · Leaflet*
+
+- **LifeLink — Emergency Blood Coordination Platform**  
+  Hackathon-winning healthcare system enabling real-time donor–recipient coordination with verification and location awareness.  
+  *Full-Stack Web · Database-Driven Architecture*
+
+- **Flutter Mobile Applications**  
+  Cross-platform mobile apps with smooth animations, responsive layouts, and real API integrations.  
+  *Flutter · Dart · Firebase*
+
+- **Full-Stack Web Applications**  
+  End-to-end systems covering frontend, backend APIs, databases, authentication, and deployment.  
+  *React · Django / FastAPI · PostgreSQL*
 
 ---
 
-### LifeLink — Emergency Blood Coordination Platform
-Hackathon-winning platform enabling **real-time donor–recipient coordination** with verification and location awareness.  
-**Stack:** Full-Stack Web · Database-Driven Architecture
+## Engineering Philosophy
 
----
-
-### Flutter Mobile Applications
-Cross-platform mobile apps with **smooth animations, responsive layouts, and real API integrations**.  
-**Stack:** Flutter · Dart · Firebase
-
----
-
-### Full-Stack Web Applications
-End-to-end systems covering **frontend, backend APIs, databases, authentication, and deployment**.  
-**Stack:** React · Django / FastAPI · PostgreSQL
-
----
-
-##
-
-- Understand the system before writing code  
-- Build for clarity, not cleverness  
-- Ship MVPs early, then iterate  
-- Use the right tool—not the trending one  
+- Understand the problem before choosing tools  
+- Keep solutions simple and maintainable  
+- Build MVPs first, then improve iteratively  
+- Prefer clarity over cleverness  
 
 <p align="center">
-  <strong>Practical systems. Real problems. Clean solutions.</strong>
+  <strong>Learn Deeply. Build Practically. Improve Continuously.</strong>
 </p>
