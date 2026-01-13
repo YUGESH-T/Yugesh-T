@@ -1,12 +1,12 @@
 <h1 align="center">Yugesh Thimmampalli</h1>
 
 <p align="center">
-  <strong>Full-Stack & Mobile Developer · Geospatial Data Visualization</strong><br/>
+  <strong>Full-Stack & Mobile Developer · Spatial Systems & Data Visualization</strong><br/>
   Computer Science (Data Science), 2nd Year — Madanapalle Institute of Technology & Science
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yugesh-thimmampalli">
+  <a href="https://www.linkedin.com/in/yugesh-thimmampalli-45a73b32b?">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YUGESH-T">
@@ -21,57 +21,85 @@
 
 ## Overview
 
-I design and build **production-oriented full-stack systems and cross-platform mobile applications** with a strong focus on **real-world constraints, geospatial intelligence, and clean architecture**.
+I build **production-focused full-stack systems and cross-platform mobile applications** with an emphasis on **real-world constraints, spatial data systems, and clean architecture**.
 
-Most of my work is developed under **hackathon timelines or deployment-driven deadlines**, where delivery speed, correctness, and maintainability are non-negotiable.  
-These are not demo projects—they are **end-to-end systems** spanning frontend, backend, databases, APIs, maps, and deployment.
+Most of my projects are developed under **hackathon timelines or deployment-driven deadlines**, where speed, correctness, and maintainability matter.  
+These are **end-to-end systems**, not demos—covering frontend, backend, databases, APIs, maps, and deployment.
 
 ---
 
 ## Current Focus
 
 - Advanced **Flutter** mobile development (animations, maps, performance)
-- **Geospatial visualization systems** with real-time data
+- **Spatial data systems** with interactive map-based visualization
 - Scalable **full-stack architecture**
-- Building reliable MVPs and evolving them into production systems
+- Shipping MVPs and evolving them into reliable products
 
 ---
 
 ## Tech Stack
 
 ### Languages & Frameworks
-`React` · `Flutter` · `Django` · `FastAPI` · `TypeScript` · `JavaScript` · `Dart` · `Python` · `Java`
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+</p>
 
 ### Frontend & UI
-`React` · `Tailwind CSS` · `GSAP` · `AOS` · `Material-UI` · `Flutter Widgets`
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+</p>
 
 ### Backend & Databases
-`FastAPI` · `Express.js` · `Django` · `Supabase` · `MongoDB` · `PostgreSQL` · `Firebase`
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+</p>
 
-### Geospatial & Visualization
-`Leaflet` · `Flutter Map` · `Mapbox` · `Geospatial Analysis` · `Interactive Data Visualization`
+### Spatial Systems & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/>
+</p>
 
 ### Tools & Platforms
-`Vercel` · `Firebase` · `Google Cloud` · `Git` · `Figma` · `Chrome DevTools` · `Selenium`
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+</p>
 
 ---
 
 ## Featured Projects
 
 ### INCOIS Disaster Management System
-Crowdsourced ocean-hazard reporting platform with **live geospatial visualization** designed for disaster awareness and response.  
-**Stack:** React · Supabase · Leaflet · Full-Stack Architecture
+Crowdsourced ocean-hazard reporting system with **live spatial visualization** for disaster awareness and response.  
+**Stack:** React · Supabase · Leaflet
 
 ---
 
 ### LifeLink — Emergency Blood Coordination Platform
-Hackathon-winning healthcare platform enabling **real-time donor–recipient coordination** with verification and location awareness.  
+Hackathon-winning platform enabling **real-time donor–recipient coordination** with verification and location awareness.  
 **Stack:** Full-Stack Web · Database-Driven Architecture
 
 ---
 
 ### Flutter Mobile Applications
-Cross-platform mobile apps featuring **smooth animations, responsive layouts, and real API integrations**.  
+Cross-platform mobile apps with **smooth animations, responsive layouts, and real API integrations**.  
 **Stack:** Flutter · Dart · Firebase
 
 ---
@@ -82,36 +110,13 @@ End-to-end systems covering **frontend, backend APIs, databases, authentication,
 
 ---
 
-## What You’ll Find in My Repositories
+##
 
-- Clean, maintainable, and well-structured code
-- Mobile-first, responsive UI design
-- Real database and API integration
-- Honest project scope (MVPs and production-ready systems)
-- Architecture decisions explained clearly
-
----
-
-## Engineering Philosophy
-
-I care more about **understanding systems** than chasing tools.
-
-If a solution is:
-- reliable,
-- maintainable,
-- and solves a real problem,
-
-then it is worth building.
-
-### I strongly believe in:
-- Writing code that is easy to read, debug, and extend
-- Designing systems that scale with real usage
-- Choosing tools based on suitability, not trends
-- Shipping MVPs early and iterating with intent
-- Documenting decisions for long-term clarity
-
----
+- Understand the system before writing code  
+- Build for clarity, not cleverness  
+- Ship MVPs early, then iterate  
+- Use the right tool—not the trending one  
 
 <p align="center">
-  <strong>Building practical systems. Solving real problems. Iterating with purpose.</strong>
+  <strong>Practical systems. Real problems. Clean solutions.</strong>
 </p>
